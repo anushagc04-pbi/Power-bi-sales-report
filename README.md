@@ -71,4 +71,5 @@ Useful for identifying regional sales strengths.
 
 Business impact:This dashboard empowers the business to make smarter, faster decisions by giving a clear view of revenue, profit, and margin trends across categories, channels, and geographies. With visibility into seasonal fluctuations, urgent vs. non-urgent demand, and retailer performance, leaders can optimize pricing, inventory, and sales strategies. Ultimately, it helps reduce missed opportunities, improve profitability, and allocate resources effectively to the right markets and product lines.
 
-5. Screenshot/Demo: https://github.com/anushagc04-pbi/Power-bi-sales-report/blob/main/Snapshot%20of%20the%20report.png?raw=true
+5. Screenshot/Demo:
+   ![Dashboard Preview](https://github.com/anushagc04-pbi/Power-bi-sales-report/blob/main/Snapshot%20of%20the%20report.png?raw=true)

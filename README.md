@@ -10,3 +10,65 @@
    3. DAX (Data Analysis Expressions) – Created calculated columns, measures, and KPIs for revenue, profit, and margin analysis.
    4. Data Modeling – Built relationships between tables and applied star schema for efficient performance.
    5. Power BI Visuals – Designed charts, maps, and KPIs for trend analysis and regional insights.
+  
+4. Business Problem: The company operates across multiple product categories, sales channels, and geographies, but decision-makers lack a consolidated view of revenue performance. Without a unified dashboard, it is difficult to track how different categories, retailer types, and regions are contributing to overall growth. Seasonal fluctuations, urgent vs. non-urgent orders, and varying profit margins add complexity, making it challenging to identify trends or areas that require attention.
+
+Additionally, leadership needs visibility into which categories or markets are underperforming, and how sales methods or retailer types affect profitability. Without these insights, resource allocation, demand planning, and pricing strategies risk being based on assumptions rather than data-driven evidence.
+
+   Goal of the dashboard: The goal of this dashboard is to provide a centralized, interactive view of revenue performance across different dimensions — time, category, retailer type, urgency, and geography. By consolidating KPIs like revenue, margin%, and profit alongside detailed breakdowns, the dashboard enables users to drill down into what’s driving performance.
+
+It helps business leaders quickly identify high-performing categories, seasonal trends, and regional opportunities while also spotting weak areas. This empowers the organization to make data-backed decisions around product strategy, marketing focus, and operational improvements, ultimately driving sustainable growth.
+
+   Walkthrough of the key visuals:
+
+Top Section
+
+1. Chiclet Slicer (Categories)
+Three categories available:
+i. Camping Equipment
+ii. Mountaineering Equipment
+iii. Outdoor Protection
+Acts as a filter to switch between different product categories and update the visuals accordingly.
+
+2. KPI Cards
+i.Revenue: $180.3M
+ii.Margin %: 37.31%
+iii.Profit: $67.3M
+These cards give a quick snapshot of overall financial performance for 2016.
+
+Left Section (Top)
+
+3. Year & Metric Slicer (Tile Buttons)
+Allows selection between 2016 / 2017.
+Users can also toggle between Cost, Profit, Revenue.
+Controls the data context for other visuals.
+
+4. Revenue by Month (Line Chart)
+Displays monthly revenue trend for the selected year.
+Key peaks: April (20.1M), dips: July (11M) in 2016.
+Shows seasonality and performance fluctuations.
+
+Right Section
+
+5. Bookmarks with 3 Buttons
+Switch between different revenue breakdowns:
+By Product Type
+By Urgency 
+By Method Type
+Makes the report interactive and flexible.
+
+Left Section (Bottom)
+6. Revenue by Retailer Type (Ribbon Chart)
+Breaks down revenue by retailer type (Outdoor Shop, Sports Store, Warehouse Store).
+Visualizes which type of retailer dominates across months and how rankings change over time.
+
+Right Section (Bottom)
+
+7. Map Visual – Revenue by Countries
+Shows geographical distribution of revenue.
+Highlights top regions such as North America and Europe.
+Useful for identifying regional sales strengths.
+
+Business impact:This dashboard empowers the business to make smarter, faster decisions by giving a clear view of revenue, profit, and margin trends across categories, channels, and geographies. With visibility into seasonal fluctuations, urgent vs. non-urgent demand, and retailer performance, leaders can optimize pricing, inventory, and sales strategies. Ultimately, it helps reduce missed opportunities, improve profitability, and allocate resources effectively to the right markets and product lines.
+
+5. Screenshot/Demo:

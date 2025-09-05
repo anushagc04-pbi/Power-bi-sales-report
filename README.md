@@ -2,7 +2,7 @@
 1. *Project Title* : Sales & Revenue Performance Dashboard
    Interactive Power BI dashboard analyzing revenue, profit, and margin% across multiple product categories, retailer types, and regions.
 
-2. *Purpose*: This Power BI report provides a comprehensive view of revenue, profit, and margin performance for 2016 across multiple product categories. It highlights monthly sales trends, compares performance by retailer type, urgency, and sales method, and offers regional insights through an interactive map. The dashboard enables stakeholders to quickly identify key drivers of revenue, track profitability, and make data-driven business decisions.
+2. *Purpose*: This Power BI report provides a comprehensive view of revenue, profit, and margin performance for 2016 & 2017 across multiple product categories. It highlights monthly sales trends, compares performance by retailer type, urgency, and sales method, and offers regional insights through an interactive map. The dashboard enables stakeholders to quickly identify key drivers of revenue, track profitability, and make data-driven business decisions.
    
 3. *Tech Stack* :
    1. Power BI Desktop – Used to design and build the interactive dashboard with visuals and KPIs.

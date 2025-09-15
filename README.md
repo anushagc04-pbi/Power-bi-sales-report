@@ -26,11 +26,11 @@ Top Section
    5a. *Chiclet Slicer* (Categories)
     Three categories available:
     
-   i. Camping Equipment
+   i. Fitness & Wellness
       
-   ii. Mountaineering Equipment
+   ii. Home Essentials
       
-   iii. Outdoor Protection
+   iii. Travel Accessories
       
    Acts as a filter to switch between different product categories and update the visuals accordingly.
 
